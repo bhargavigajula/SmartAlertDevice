@@ -8,3 +8,4 @@ It is an **IOT-based** Device that helps people in danger. This device helps sen
 **4. SIM Card Reader** - We use this to read the Data File.<br><br>
 **5. Buzzer** - We use buzzer with 2 to 3 khz osicillation value because this frequency can easily get Attention in noisy Environment.<br><br>
 **6. Other Components** - Connecting Wires, Resistors, Bread board<br><br>
+![WhatsApp Image 2021-06-23 at 9 53 09 PM](https://user-images.githubusercontent.com/72993229/123134085-0d538300-d46e-11eb-8a85-c7981f9e2612.jpeg)
